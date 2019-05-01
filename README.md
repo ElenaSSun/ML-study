@@ -20,3 +20,8 @@ git clone https://github.com/newhiwoong/sun-study.git
 초코도 맛있엉
 
 아무글
+
+#### woong의 말씀
+sun은 아름답다.
+
+슈는 맛있다.
