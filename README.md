@@ -13,6 +13,10 @@ git clone https://github.com/newhiwoong/sun-study.git
 ## 참고도서
 - 밑바닥에서 부터 시작하는 데이터 과학 : [code](https://github.com/Insight-book/data-science-from-scratch/tree/master/code-python3)
 - 밑바닥부터 시작하는 딥러닝 : [code](https://github.com/WegraLee/deep-learning-from-scratch)
+- 라이브러리 사묭 데이터 분석
+- 텐서플로우
+- 케라스
+- 개론서
 
 #### sun의 말씀
 모카쉐이크 맛있다
